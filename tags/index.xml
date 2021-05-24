@@ -6,34 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 15:41:32 +0200</lastBuildDate><atom:link href="http://sichen-econ.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>motivated beliefs</title>
-      <link>http://sichen-econ.github.io/tags/motivated-beliefs/</link>
-      <pubDate>Sun, 23 May 2021 15:41:32 +0200</pubDate>
-      
-      <guid>http://sichen-econ.github.io/tags/motivated-beliefs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>overconfidence</title>
-      <link>http://sichen-econ.github.io/tags/overconfidence/</link>
-      <pubDate>Sun, 23 May 2021 15:41:32 +0200</pubDate>
-      
-      <guid>http://sichen-econ.github.io/tags/overconfidence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motivation</title>
-      <link>http://sichen-econ.github.io/tags/motivation/</link>
-      <pubDate>Tue, 16 Mar 2021 10:40:27 +0200</pubDate>
-      
-      <guid>http://sichen-econ.github.io/tags/motivation/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 23 Feb 2021 15:40:22 +0200</lastBuildDate><atom:link href="http://sichen-econ.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>belief-based utility</title>
       <link>http://sichen-econ.github.io/tags/belief-based-utility/</link>
@@ -53,6 +26,15 @@
     </item>
     
     <item>
+      <title>motivated beliefs</title>
+      <link>http://sichen-econ.github.io/tags/motivated-beliefs/</link>
+      <pubDate>Tue, 23 Feb 2021 15:40:22 +0200</pubDate>
+      
+      <guid>http://sichen-econ.github.io/tags/motivated-beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>risk taking</title>
       <link>http://sichen-econ.github.io/tags/risk-taking/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
@@ -67,6 +49,24 @@
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
       
       <guid>http://sichen-econ.github.io/tags/stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motivation</title>
+      <link>http://sichen-econ.github.io/tags/motivation/</link>
+      <pubDate>Mon, 01 Apr 2019 15:41:22 +0200</pubDate>
+      
+      <guid>http://sichen-econ.github.io/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>overconfidence</title>
+      <link>http://sichen-econ.github.io/tags/overconfidence/</link>
+      <pubDate>Mon, 01 Apr 2019 15:41:22 +0200</pubDate>
+      
+      <guid>http://sichen-econ.github.io/tags/overconfidence/</guid>
       <description></description>
     </item>
     
